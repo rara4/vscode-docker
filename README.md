@@ -2,7 +2,7 @@
 
 The Docker extension makes it easy to build, manage, and deploy containerized applications from Visual Studio Code. It also provides one-click debugging of Node.js, Python, and .NET Core inside a container.
 
-![Docker extension overview](resources/readme/overview.gif)
+![Docker extension overview](https://github.com/Microsoft/resources/readme/overview.gif)
 
 **Check out the [Working with containers](https://aka.ms/AA7arez) topic on the Visual Studio Code documentation site to get started**.
 
